@@ -1,0 +1,6 @@
+body {background: white;}
+div#intro {text-align: center; background:#bdbdbd}
+h1 {color:red}
+div#bio {text-align: center}
+div#edit {text-align: center}
+div#edit h3:first-word{color:blue}
